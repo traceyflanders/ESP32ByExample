@@ -61,7 +61,7 @@ void setup(void) {
   }
   display.display();
   delay(2000); // Pause for 2 seconds
-  display.setTextSize(1);
+  display.setTextSize(2);
   display.setTextColor(WHITE);
   display.setRotation(0);
   display.clearDisplay();
